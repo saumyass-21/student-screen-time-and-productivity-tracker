@@ -1,0 +1,41 @@
+Original dataset shape: (6681, 14)
+
+Missing values before cleaning:
+age                        0
+gender                     0
+daily_screen_time_hours    0
+social_media_hours         0
+gaming_hours               0
+work_study_hours           0
+sleep_hours                0
+notifications_per_day      0
+app_opens_per_day          0
+weekend_screen_time        0
+stress_level               0
+academic_work_impact       0
+addiction_level            0
+addicted_label             0
+
+Duplicate rows removed: 0
+
+Rows removed due to missing target: 0
+
+Missing values after cleaning:
+age                        0
+gender                     0
+daily_screen_time_hours    0
+social_media_hours         0
+gaming_hours               0
+work_study_hours           0
+sleep_hours                0
+notifications_per_day      0
+app_opens_per_day          0
+weekend_screen_time        0
+stress_level               0
+academic_work_impact       0
+addiction_level            0
+addicted_label             0
+
+Final dataset shape: (6681, 14)
+Original rows: 6681
+Final rows: 6681

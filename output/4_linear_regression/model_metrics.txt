@@ -1,0 +1,18 @@
+
+LINEAR REGRESSION MODEL RESULTS
+
+Target Variable: daily_screen_time_hours
+
+Training Records: 5344
+Testing Records: 1337
+
+Mean Absolute Error (MAE): 0.5997
+Mean Squared Error (MSE): 0.4906
+Root Mean Squared Error (RMSE): 0.7004
+R2 Score: 0.9240
+
+5-Fold Cross Validation Scores:
+[0.92876882 0.9242016  0.92454837 0.9272616  0.9198236 ]
+
+Average Cross Validation R2:
+0.9249
